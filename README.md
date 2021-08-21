@@ -1,0 +1,1 @@
+# HRESULT-GetDpiForMonitor-HMONITOR-hmonitor-MONITOR_DPI_TYPE-dpiType-UINT-
